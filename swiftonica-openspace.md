@@ -3,7 +3,7 @@
     "id:" "swiftonica.openspace.id"
     "themes": [
         {
-            "title": "VIPER"
+            "title": "LINK ON GITHUB"
             "title2": nil
             "icon": 0
             
@@ -25,7 +25,7 @@
             "contentImageUrl": nil
             "content": {
                 {
-                    "content": "https://github.com/"
+                    "content": "https://github.com/swiftonica/swiftonica-database/blob/main/VIPER.md"
                     "kind": 1 
                 }
             }
