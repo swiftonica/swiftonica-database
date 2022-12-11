@@ -4,10 +4,10 @@
     "themes": [
         {
             "title": "LINK ON GITHUB"
-            "title2": nil
+            "title2": null
             "icon": 0
             
-            "contentImageUrl": nil
+            "contentImageUrl": null
             "content": {
                 {
                     "content": "https://github.com/"
@@ -19,10 +19,10 @@
         
         {
             "title": "OPENSPACE TEST"
-            "title2": nil
+            "title2": null
             "icon": 0
             
-            "contentImageUrl": nil
+            "contentImageUrl": null
             "content": {
                 {
                     "content": "https://github.com/swiftonica/swiftonica-database/blob/main/VIPER.md"
