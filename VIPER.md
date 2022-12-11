@@ -4,9 +4,9 @@
     "themes": [
         {
             "title": "SOME VIPER THEME"
-            "title2": nil
+            "title2": null
             "icon": 0
-            "contentImageUrl": nil
+            "contentImageUrl": null
             "content": {
                 {
                     "content": "https://github.com/"
