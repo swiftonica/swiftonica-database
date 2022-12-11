@@ -1,6 +1,6 @@
 {
     "name": "Swiftonica",
-    "id:" "swiftonica.openspace.id",
+    "id": "swiftonica.openspace.id",
     "themes": [
         {
             "title": "LINK ON GITHUB",
