@@ -8,10 +8,8 @@
             "icon": 0,
             "contentImageUrl": "",
             "content": {
-                {
-                    "content": "https://github.com/",
-                    "kind": 0
-                }
+                "content": "https://github.com/",
+                "kind": 0
             },
             "kind": 0
         },
@@ -21,10 +19,8 @@
             "icon": 0,
             "contentImageUrl": "",
             "content": {
-                {
-                    "content": "https://github.com/swiftonica/swiftonica-database/blob/main/VIPER.md",
-                    "kind": 1 
-                }
+                "content": "https://github.com/swiftonica/swiftonica-database/blob/main/VIPER.md",
+                "kind": 1 
             },
             "kind": 0
         }
