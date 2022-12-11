@@ -10,7 +10,7 @@
             "content": {
                 {
                     "content": "https://github.com/"
-                    "kind"
+                    "kind": 0
                 }
             }
             "kind": 0
