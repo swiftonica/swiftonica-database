@@ -35,7 +35,7 @@
            },
            "kind": 1
         },
-         {
+        {
            "title": "Markdown on github test",
            "title2": null,
            "icon": 0,
@@ -43,6 +43,17 @@
            "content": {
                "content": "https://github.com/Jeytery/AppBuilding-iOS/blob/main/patterns.md",
                "kind": 1 
+           },
+           "kind": 1
+        },
+        {
+           "title": "iOS Good Talks",
+           "title2": null,
+           "icon": 0,
+           "contentImageUrl": "",
+           "content": {
+               "content": "https://t.me/iosgt/",
+               "kind": 0
            },
            "kind": 1
         }
