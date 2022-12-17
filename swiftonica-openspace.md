@@ -30,7 +30,7 @@
            "icon": 0,
            "contentImageUrl": "",
            "content": {
-               "content": "https://github.com/swiftonica/swiftonica-database/blob/main/VIPER.md",
+               "content": "https://api.github.com/repos/swiftonica/swiftonica-database/contents/VIPER.md",
                "kind": 1 
            },
            "kind": 1
